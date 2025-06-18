@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import AnimatedFoxTracked from './AnimatedFoxTracked';
+import FoxViewer from './FoxViewer';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(<AnimatedFoxTracked />);
+root.render(<FoxViewer />);
