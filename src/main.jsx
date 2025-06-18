@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import AnimatedFoxWeb from './AnimatedFoxWeb';
+import AnimatedFoxTracked from './AnimatedFoxTracked';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(<AnimatedFoxWeb />);
+root.render(<AnimatedFoxTracked />);
